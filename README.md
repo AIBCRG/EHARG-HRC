@@ -61,7 +61,7 @@ contain extended periods of sustained activity interleaved with quieter
 intervals — a distribution that tests whether models depend on activity density
 rather than on the structure of the motion itself.
  
-### EDA
+### Electronic Assembley
  
 EDA provides annotated human activity in a workspace setting, contributing
 another view of collaborative task execution to the suite. Its inclusion

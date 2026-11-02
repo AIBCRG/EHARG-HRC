@@ -1,6 +1,11 @@
 # EHARG-HRC:A Comprehensive Benchmark Suite for Event Camera-Based Human Action Recognition and Gaze Estimation in Human-Robot Collaboration
+
+
+### NOTE
+
+Due to large size of dataset, it is taking longer than usual to properly upload all datasets. As soon as we upload the datasets, we will update the links in each dataset section.
+
 ## Overview
- 
 Event cameras report per-pixel brightness changes asynchronously rather than
 capturing full frames at a fixed rate, which gives them microsecond temporal
 resolution, high dynamic range, and low power draw — properties that suit
@@ -98,9 +103,7 @@ data for that detector at a scale unavailable in any purpose-built event dataset
 and its diversity of pose, scale, and scene composition makes it a demanding
 benchmark in its own right.
 
-### NOTE
 
-Due to large size of dataset, it is taking longer than usual to properly upload all datasets. As soon as we upload the datasets, we will update the links in each dataset section.
 
 ### Website
 
